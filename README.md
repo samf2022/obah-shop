@@ -31,9 +31,10 @@ página; al llenarlos aparecen solos en su sección:
   en el borrador original.
 - **Confirmar la moneda** de las fichas de productos originales (el borrador
   dudaba entre $ y €; hoy todo se muestra en $).
-- **Fotos reales**: clienta con look completo (hero), interior del showroom con
-  espejo, y fotos de productos/categorías (hoy hay patrones de tela de relleno
-  con la nota "Foto real en camino"). Al montar la foto real del hero, quitar el override movil `.hero-arch` del media query ≤711px para devolverle la altura completa al arco.
+- **Fotos reales**: la del hero ya está montada (`hero.webp`). Faltan: interior
+  del showroom con espejo, y fotos de productos/categorías (hoy hay patrones
+  de tela de relleno). Al llegar fotos de productos se puede restaurar el arco
+  de cada card del catálogo.
 
 ## Mantenimiento
 
