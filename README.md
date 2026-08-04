@@ -32,7 +32,7 @@ página; al llenarlos aparecen solos en su sección:
   dudaba entre $ y €; hoy todo se muestra en $).
 - **Fotos reales**: clienta con look completo (hero), interior del showroom con
   espejo, y fotos de productos/categorías (hoy hay patrones de tela de relleno
-  con la nota "Foto real en camino").
+  con la nota "Foto real en camino"). Al montar la foto real del hero, quitar el override movil `.hero-arch` del media query ≤711px para devolverle la altura completa al arco.
 
 ## Mantenimiento
 
