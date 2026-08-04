@@ -23,6 +23,7 @@ página; al llenarlos aparecen solos en su sección:
 
 ## Otros pendientes (no son campos)
 
+- **Confirmar el pin del mapa**: la captura (mapa.jpg) está centrada en 10.66255,-63.25052 — la ubicación de "Helados Cali Carupano" en la Av. Carabobo, asumiendo que es el mismo Edificio Cali. Si el local está en otro punto, avisar para regenerar la captura.
 - **Confirmar** que el enlace corto `wa.me/message/NFJBRNTZCSK3I1` corresponde
   al número 0422-715-9341 (el CTA principal usa el enlace corto; los botones
   por producto usan el número).
